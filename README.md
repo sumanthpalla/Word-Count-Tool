@@ -7,7 +7,7 @@ This project implements a custom version of the Unix wc tool in C: ccwc. Like th
 - Count the number of words in a file
 - Count the number of characters in a file
 
-This implementation provides a fun and practical way to explore JavaScript and its capabilities.
+This implementation provides a fun and practical way to explore C/C++ and its capabilities.
 
 ## Getting Started
 
